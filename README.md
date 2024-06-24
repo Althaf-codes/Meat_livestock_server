@@ -22,8 +22,8 @@ The Meat Livestock Server is a Node.js backend for the Meat and Livestock sellin
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/meat-livestock-server.git
-   cd meat-livestock-server
+   git clone https://github.com/Althaf-codes/Meat_livestock_server.git
+   cd Meat_livestock_server
 2. Install dependencies:
    ```sh
    npm install
