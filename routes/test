@@ -1,0 +1,22 @@
+ {
+          seller: {
+               _id: 62bbee72f071b91a71b61da4, 
+               sellerName:testseller98, 
+               userID: 62bbe9bbf071b91a71b61d9d, 
+               phoneNumber:+911212121212, 
+password:$2b$08$PQiCqlgW.Gnm/1ANq9Vyh.5QGLsZvvdLkKje.nSbxKTYBZKXmeUrG,
+isPremiumSeller: false,
+ companyName: companyno1,
+  location: address1,     
+specializedCategory: [Cow, Bull], 
+isNewSeller: true, 
+isActive: false,    
+orders: [], 
+products: [],
+ ratings: [],
+  createdAt:
+2022-06-29T06:17:22.983Z, updatedAt: 2022-06-29T06:17:22.983Z, __v: 0}
+}
+
+
+
